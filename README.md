@@ -12,6 +12,9 @@
 - WHU.exe
 - Test.exe
 
+相关书籍：
+- OD基础用法
+
 参考文献：
 - https://blog.csdn.net/Eastmount/article/details/105843983
 
